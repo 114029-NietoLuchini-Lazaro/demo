@@ -1,12 +1,56 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id":1,"idProducto":1,"idSeccio":1,"fechaVencimiento":"20/10/2024","cantidad":100,"estante":"A"},
+    {
+      "id": 2,
+      "idProducto": 2,
+      "idSeccion": 2,
+      "fechaVencimiento": "15/11/2024",
+      "cantidad": 75,
+      "estante": "B"
+    },
+    {
+      "id": 3,
+      "idProducto": 3,
+      "idSeccion": 1,
+      "fechaVencimiento": "05/09/2025",
+      "cantidad": 50,
+      "estante": "C"
+    },
+    {
+      "id": 4,
+      "idProducto": 4,
+      "idSeccion": 3,
+      "fechaVencimiento": "30/06/2024",
+      "cantidad": 120,
+      "estante": "D"
+    },{
+      "id": 5,
+      "idProducto": 2,
+      "idSeccion": 3,
+      "fechaVencimiento": "10/08/2025",
+      "cantidad": 90,
+      "estante": "E"
+    },
+    {
+      "id": 6,
+      "idProducto": 1,
+      "idSeccion": 2,
+      "fechaVencimiento": "25/12/2024",
+      "cantidad": 60,
+      "estante": "F"
+    },
+    {
+      "id": 7,
+      "idProducto": 3,
+      "idSeccion": 2,
+      "fechaVencimiento": "03/07/2025",
+      "cantidad": 80,
+      "estante": "G"
+    }
+    
+
+    
   ],
   "profile": {
     "name": "typicode"
