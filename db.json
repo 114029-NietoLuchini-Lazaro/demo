@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "lotes": [
     { "id":1,"idProducto":1,"idSeccio":1,"fechaVencimiento":"20/10/2024","cantidad":100,"estante":"A"},
     {
       "id": 2,
@@ -52,7 +52,51 @@
 
     
   ],
+
+  "existencias": [
+    {
+      "id": 1,
+      "nombre": "Tornillos Phillips",
+      "stock_minimo": 50
+    },
+    {
+      "id": 2,
+      "nombre": "Destornillador Phillips",
+      "stock_minimo": 20
+    },
+    {
+      "id": 3,
+      "nombre": "Liga Roger",
+      "stock_minimo": 15
+    },
+    {
+      "id": 4,
+      "nombre": "Aceite Santoro",
+      "stock_minimo": 25
+    },
+    {
+      "id": 5,
+      "nombre": "Tornillos ABC",
+      "stock_minimo": 50
+    },
+    {
+      "id": 6,
+      "nombre": "Tuercas Phillips",
+      "stock_minimo": 50
+    },
+    {
+      "id": 7,
+      "nombre": "Arandelas Phillips",
+      "stock_minimo": 50
+    }
+  
+  ],
+
   "profile": {
-    "name": "typicode"
+    "name": "114029-NietoLuchini-Lazaro"
   }
+
+
+
+
 }
