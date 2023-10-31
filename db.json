@@ -96,7 +96,7 @@
 
         {
             "id": 1,
-            "lote_id": 123,
+            "lote_id": 1,
             "descripcion": "Control de stock del lote 123",
             "cantidad_inspeccionada": 100.0,
             "cantidad_dañada": 5.0,
@@ -105,7 +105,7 @@
           ,
           {
             "id": 2,
-            "lote_id": 456,
+            "lote_id": 2,
             "descripcion": "Control de stock del lote 456",
             "cantidad_inspeccionada": 250.5,
             "cantidad_dañada": 10.2,
@@ -113,7 +113,7 @@
           },
           {
             "id": 3,
-            "lote_id": 789,
+            "lote_id": 3,
             "descripcion": "Control de stock del lote 789",
             "cantidad_inspeccionada": 75.0,
             "cantidad_dañada": 2.3,
@@ -121,7 +121,7 @@
           },
           {
             "id": 4,
-            "lote_id": 101,
+            "lote_id": 4,
             "descripcion": "Control de stock del lote 101",
             "cantidad_inspeccionada": 300.0,
             "cantidad_dañada": 15.5,
@@ -129,7 +129,7 @@
           },
           {
             "id": 5,
-            "lote_id": 222,
+            "lote_id": 5,
             "descripcion": "Control de stock del lote 222",
             "cantidad_inspeccionada": 150.0,
             "cantidad_dañada": 7.8,
