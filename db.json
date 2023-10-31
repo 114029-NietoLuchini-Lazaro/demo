@@ -92,6 +92,56 @@
   
   ],
 
+  "control":[
+
+        {
+            "id": 1,
+            "lote_id": 123,
+            "descripcion": "Control de stock del lote 123",
+            "cantidad_inspeccionada": 100.0,
+            "cantidad_dañada": 5.0,
+            "lote_vencido": false
+          }
+          ,
+          {
+            "id": 2,
+            "lote_id": 456,
+            "descripcion": "Control de stock del lote 456",
+            "cantidad_inspeccionada": 250.5,
+            "cantidad_dañada": 10.2,
+            "lote_vencido": true
+          },
+          {
+            "id": 3,
+            "lote_id": 789,
+            "descripcion": "Control de stock del lote 789",
+            "cantidad_inspeccionada": 75.0,
+            "cantidad_dañada": 2.3,
+            "lote_vencido": false
+          },
+          {
+            "id": 4,
+            "lote_id": 101,
+            "descripcion": "Control de stock del lote 101",
+            "cantidad_inspeccionada": 300.0,
+            "cantidad_dañada": 15.5,
+            "lote_vencido": true
+          },
+          {
+            "id": 5,
+            "lote_id": 222,
+            "descripcion": "Control de stock del lote 222",
+            "cantidad_inspeccionada": 150.0,
+            "cantidad_dañada": 7.8,
+            "lote_vencido": false
+          }
+          
+          
+          
+          
+
+    ],
+  
   "profile": {
     "name": "114029-NietoLuchini-Lazaro"
   }
